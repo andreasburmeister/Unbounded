@@ -20,7 +20,7 @@ public class Character {
 	private final float zEyePosition = 200;
 	private final float feetXYMinPosition;
 	private final float feetXYMaxPosition;
-	private final float xyMovementRate = 250;
+	private final float xyMovementRate = 25;
 	private final float zMovementRate = 75;
 	private float zSpeed = 0;
 	private boolean hasMoved = false;
