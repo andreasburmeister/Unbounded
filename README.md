@@ -4,9 +4,6 @@ A randomly generated 3D world implemented in Java using Processing
 Current build screenshot:
 ![Screenshot](screenshots/Unbounded-1452440327473.png)
 
-Generated map:
-![Map](screenshots/Unbounded-1452440240240.png)
-
 ## Features
 
 * seemingly endless, *randomly generated world*
