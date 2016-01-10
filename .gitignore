@@ -1,0 +1,6 @@
+# compiled source
+bin/
+
+# eclipse settings
+.project
+.settings/
